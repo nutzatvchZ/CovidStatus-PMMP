@@ -1,0 +1,18 @@
+---
+
+config_version: 1.0
+
+#===================================#
+setup: false
+#======Settings Get Post============#
+day: 1
+hour: 0
+minute: 0
+#=============Countries==============#
+countries: 
+#====User Pass web.postman.co========#
+user:
+pass: 
+#===================================#
+
+...
