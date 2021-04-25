@@ -14,6 +14,9 @@ countries:
 #====User Pass web.postman.co========#
 user:
 pass: 
+#=========Bordcast Message==========#
+brodcast_message:
+bordcast_type:
 #===================================#
 
 ...
