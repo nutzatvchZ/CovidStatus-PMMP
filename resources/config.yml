@@ -17,6 +17,13 @@ pass:
 #=========Bordcast Message==========#
 brodcast_message:
 bordcast_type:
+#========== UI Inferface ===========#
+#{covidstatus} = Show Covid Total\n {color} = Random Color \n{newcase} = New Case \n {newdeath} = New Death\n{newrecovered] = New Recovered\n {totaldeath} = Total Death \n{totalrecoverd} = TotalRecoverd"
+title: §a-=- §eCovidStatus §a
+content: §aTotal: {covidstatus}
+btn: Exit
+btn-img-type: 0
+btn-img: textures/items/barrier.png
 #===================================#
 
 ...
